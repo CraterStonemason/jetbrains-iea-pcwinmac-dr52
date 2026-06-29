@@ -1,4 +1,4 @@
-# 
+# Código aberto JetBrains IntelliJ IDEA ferramentas para Mac OS | Premium JetBrains IntelliJ IDEA ferramentas para PC Windows. Com verificações de saúde e variáveis de ambiente — otimizado para máximo desempenho em cada plataforma.
 
 
 
